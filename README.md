@@ -19,13 +19,6 @@ src="https://img.shields.io/github/followers/brunopulquerio?logo=github&style=fo
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 </p>
 
-<b>My GitHub Stats</b>
-
-<div href="http://www.github.com/brunopulquerio">
-<!--   <img height='210em' src="https://github-readme-stats.vercel.app/api?username=brunopulquerio&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="brunopulquerio's GitHub stats"/>
-  <img align="left" height='210em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopulquerio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</div> -->
-
 <b>Contact</b>
 
 <div>
